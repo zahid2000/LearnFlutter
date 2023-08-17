@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_app/components/custom_alert.dart';
-import 'package:firebase_app/screens/profile_screen.dart';
+import 'package:firebase_app_2/components/custom_alert.dart';
+import 'package:firebase_app_2/screens/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
